@@ -593,7 +593,6 @@
     <connection t1="SZ 70 Indian Ocean" t2="Dar es Salaam"/>
     <connection t1="SZ 70 Indian Ocean" t2="Songea"/>
     <connection t1="SZ 71 Mozambique Channel" t2="SZ 72 South Atlantic"/>
-    <connection t1="SZ 71 Mozambique Channel" t2="Songea"/>
     <connection t1="SZ 71 Mozambique Channel" t2="Mozambique"/>
     <connection t1="SZ 72 South Atlantic" t2="SZ 73 South Atlantic"/>
     <connection t1="SZ 72 South Atlantic" t2="Namib Desert"/>
